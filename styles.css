@@ -1,0 +1,12 @@
+body {
+    background: rgb(54, 4, 54);
+    color:blueviolet;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width:100%;
+    text-align: center;
+}
+
+h1 {
+    color: hotpink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
